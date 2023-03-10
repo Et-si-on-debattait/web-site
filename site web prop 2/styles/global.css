@@ -1,0 +1,12 @@
+body
+{
+	--custom-green: #69c812;
+	--custom-red: #f14672;
+
+	margin: 0px;
+}
+
+header
+{
+	background-color: var(--custom-green);
+}
