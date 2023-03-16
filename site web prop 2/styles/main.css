@@ -1,10 +1,11 @@
-.WorkInProgress
+.workInProgress
 {
   font-size: 4em;
 }
 
-body
+.workInProgressDiv
 {
-  display: flex;
-  flex-direction: center;
+  
+	display: flex;
+  justify-content: center;
 }
