@@ -1,0 +1,10 @@
+.WorkInProgress
+{
+  font-size: 4em;
+}
+
+body
+{
+  display: flex;
+  flex-direction: center;
+}
