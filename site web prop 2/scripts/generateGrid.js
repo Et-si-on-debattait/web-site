@@ -1,4 +1,4 @@
-Papa.parse('icons.csv', {
+Papa.parse('csv/icons.csv', {
   download: true,
   header: true,
   complete: function(results) {
