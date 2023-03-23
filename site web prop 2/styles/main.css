@@ -1,4 +1,4 @@
-@media (min-width: 400px) {
+@media (min-width: 500px) {
   .icon-grid {
     display: flex;
     flex-wrap: wrap;
@@ -31,7 +31,7 @@
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .icon-grid {
     display: flex;
     flex-direction: column;
@@ -44,7 +44,7 @@
     align-items: center;
     justify-content: center;
     height: 10%;
-    background-color: transparent;
+    background-color: #eee;
     border-radius: 40px;
     margin: 1vw;
     padding: 1vh;
