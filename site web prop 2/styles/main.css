@@ -1,6 +1,7 @@
 .icon-grid {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .icon {
@@ -10,7 +11,8 @@
   justify-content: center;
   height: 30vh;
   background-color: transparent;
-  border-radius: 20px;
+  border-radius: 10vh;
+  margin: 1vw;
   text-align: center;
   font-size: 24px;
 }
