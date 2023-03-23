@@ -59,5 +59,6 @@
   .icon p {
     display: inline;
     font-family: system-ui, arial, sans-serif;
+    color: black;
   }
 }
