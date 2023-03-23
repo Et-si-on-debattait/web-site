@@ -1,4 +1,4 @@
-@media screen {
+@media not all {
   .icon-grid {
     display: flex;
     flex-wrap: wrap;
@@ -15,7 +15,7 @@
     border-radius: 40px;
     margin: 1vw;
     text-align: center;
-    font-size: 24px;
+    font-size: 1.5em;
   }
 
   .icon img {
@@ -31,7 +31,7 @@
   }
 }
 
-@media handheld {
+@media all {
   .icon-grid {
     display: flex;
     flex-direction: column;
@@ -49,7 +49,7 @@
     margin: 1vw;
     padding: 1vh;
     text-align: left;
-    font-size: 24px;
+    font-size: 1.5em;
   }
 
   .icon img {
