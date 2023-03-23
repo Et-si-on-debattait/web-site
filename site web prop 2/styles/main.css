@@ -1,4 +1,4 @@
-@media not all {
+@media (orientation: landscape) {
   .icon-grid {
     display: flex;
     flex-wrap: wrap;
@@ -31,7 +31,7 @@
   }
 }
 
-@media all {
+@media (orientation: portrait) {
   .icon-grid {
     display: flex;
     flex-direction: column;
