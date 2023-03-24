@@ -1,6 +1,7 @@
 p
 {
   all: inherit;
+  display: initial;
 }
 
 .mainPresentation
