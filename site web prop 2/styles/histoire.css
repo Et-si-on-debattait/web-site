@@ -4,11 +4,27 @@ p
   display: initial;
 }
 
-.mainPresentation
+#mainPresentation
 {
   font-weight: bold;
 }
+
+#detailPresentation
+{}
+
 .titreLeger
 {
   font-size: 1.2em;
+}
+
+.titreQuestion
+{
+  font-size: 1.4em;
+  font-weight: bold;
+  color: var(--custom-red);
+}
+
+.citeur
+{
+  color: var(--custom-green);
 }
