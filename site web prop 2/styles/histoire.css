@@ -1,0 +1,13 @@
+p
+{
+  all: inherit;
+}
+
+.mainPresentation
+{
+  font-weight: bold;
+}
+.titreLeger
+{
+  font-size: 1.2em;
+}
