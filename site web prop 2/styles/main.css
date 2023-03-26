@@ -1,3 +1,7 @@
+.estod
+{
+  height: 15vh;
+}
 @media (orientation: landscape) {
   .icon-grid {
     display: flex;
