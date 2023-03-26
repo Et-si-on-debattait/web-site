@@ -2,6 +2,7 @@ p
 {
   all: inherit;
   display: initial;
+  margin: 10px;
 }
 
 #mainPresentation
