@@ -13,4 +13,5 @@ header
 {
 	background-color: var(--custom-red);
 	font-family: inherit;
+	height: 5vh;
 }
