@@ -14,4 +14,6 @@ header
 	background-color: var(--custom-red);
 	font-family: inherit;
 	height: 15vh;
+	display: flex;
+	justify-content: center;
 }
