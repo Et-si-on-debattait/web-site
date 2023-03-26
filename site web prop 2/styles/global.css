@@ -9,7 +9,7 @@ body
 	font-family: arial;
 }
 
-header:
+header
 {
 	background-color: var(--custom-red);
 	font-family: inherit;
