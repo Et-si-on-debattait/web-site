@@ -29,3 +29,16 @@ p
 {
   color: var(--custom-green);
 }
+
+.backButton
+{
+  border-radius: 100px;
+    background-color: slategrey;
+    position: sticky;
+    top: 90vh;
+    left: 5vh;
+    padding: 5px;
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+}
