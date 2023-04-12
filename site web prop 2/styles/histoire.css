@@ -42,3 +42,8 @@ p
 	display: flex;
 	justify-content: center;
 }
+
+div.backButton
+{
+	background-color: transparent;
+}
