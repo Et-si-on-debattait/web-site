@@ -4,6 +4,7 @@ body
 	--custom-red: #f14672;
 
 	margin: 0px;
+	margin-top: 15vh;
 	justify-content: center;
 
 	font-family: arial;
@@ -18,4 +19,6 @@ header
 	height: 15vh;
 	display: flex;
 	justify-content: center;
+	
+	margin-top: -15vh;
 }
