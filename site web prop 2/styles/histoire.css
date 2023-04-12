@@ -1,13 +1,13 @@
 p
 {
-  all: inherit;
-  display: inline-block;
-  margin: 10px;
+	all: inherit;
+	display: inline-block;
+	margin: 10px;
 }
 
 #mainPresentation
 {
-  font-weight: bold;
+	font-weight: bold;
 }
 
 #detailPresentation
@@ -15,30 +15,30 @@ p
 
 .titreLeger
 {
-  font-size: 1.2em;
+	font-size: 1.2em;
 }
 
 .titreQuestion
 {
-  font-size: 1.4em;
-  font-weight: bold;
-  color: var(--custom-red);
+	font-size: 1.4em;
+	font-weight: bold;
+	color: var(--custom-red);
 }
 
 .citeur
 {
-  color: var(--custom-green);
+	color: var(--custom-green);
 }
 
 .backButton
 {
-  border-radius: 100px;
-    background-color: slategrey;
-    position: sticky;
-    top: 3vh;
-    left: 5vh;
-    padding: 5px;
-    width: 10vw;
-    display: flex;
-    justify-content: center;
+	border-radius: 100px;
+	background-color: slategrey;
+	position: absolute;
+	top: 3vh;
+	left: 5vh;
+	padding: 5px;
+	width: 10vw;
+	display: flex;
+	justify-content: center;
 }
