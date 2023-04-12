@@ -11,8 +11,10 @@ body
 
 header
 {
+	position: fixed;
 	background-color: var(--custom-red);
 	font-family: inherit;
+	width: 100vw;
 	height: 15vh;
 	display: flex;
 	justify-content: center;
