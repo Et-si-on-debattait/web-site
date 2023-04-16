@@ -1,1 +1,1 @@
-
+articlesSlot = document.getElementById("articles");
